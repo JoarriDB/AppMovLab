@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="uns_rojo">#DA2C4B</color>
+    <color name="uns_rojo_claro">#F28CA4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gris_fondo">#F5F5F5</color>
+</resources>

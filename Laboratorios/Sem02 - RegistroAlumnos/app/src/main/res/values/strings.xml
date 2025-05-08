@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RegistroAlumno</string>
+    <string-array name="opciones_orden">
+        <item>Ordenar por Código (A-Z)</item>
+        <item>Ordenar por Apellidos (A-Z)</item>
+    </string-array>
+
+</resources>
